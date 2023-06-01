@@ -1,0 +1,46 @@
+body{
+    background-color: greenyellow;
+}
+.photo{
+    border-radius:50%;
+    width: 30%;
+    height: 30%;
+}
+.signature P{
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+}
+hr{
+    width: 20%;
+    border-style: ridge;
+    align="center";
+    border-width: 1px;
+}
+.Synopsis h4{
+    font-size: 40px;
+        color: blue;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+}
+.Synopsis{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+     color: blue;
+
+}
+/*Personal Qualities */
+.qualities h4{
+    font-size: 40px;
+        color: blue;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+
+}
+.qualities{
+        font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            color: blue;
+}
